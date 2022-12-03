@@ -111,7 +111,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your suppor <a name="support"></a>
 
-Give a ⭐️ if you love this project!
+Give a ⭐️ if you like this project!
 
 ## 📝 License <a name="license"></a>
 This project is [MIT](./LICENSE) licensed.
