@@ -102,6 +102,17 @@ To get a local copy up and running follow these simple example steps.
 - [Twitter](https://twitter.com/abbaJdev)
 - [LinkedIn](https://www.linkedin.com/in/abah-james-ugbede-356982159/)
 
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+>  features I will add to the project.
+
+- [ ] **[hall_of_fame_basic]**
+- [ ] **[hall_of_fame_diamond]**
+- [ ] **[hall_of_fame_gold]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
