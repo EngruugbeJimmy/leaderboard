@@ -1,10 +1,25 @@
-# leaderboard
-this repo created to contains leaderboard projects files
+![](https://img.shields.io/badge/EngruugbeJimmy-blue)
+
+# Leaderboard
+this repo created to contains Leaderboard project files. 
+
+## Overview
+
+In this project, we built a basic website that allows users to add/remove books from a list. This was achieved by using JavaScript objects and arrays, while using javascript DOM and basic events to dynamically modify the page.
+
+## Project Tasks List
+
+- [x] Use git flow.
+- [x] Create an npm project with webpack.
+- [x] Write plain HTML markup with minimum styling
+- [x] Don't make API calls 
+
 
 ## Built With
 - html
 - css
 - js
+
 ## Live Demo (if available)
 Live Demo [Link](#)
 
