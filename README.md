@@ -14,14 +14,15 @@ for opennig index.html clone leaderboard repo and go to leaderboard directory, f
 
 ### Prerequisites
 
-### Browser
+- Internet connection
+- A github account
 
 ## Author
 ### 🧑🏻 Author1
-- GitHub: [@zia123456](https://github.com/Zia123456)
-- Twitter: [@zia_bakhteyari](https://twitter.com/home)
-- LinkedIn: [Zia bakhteyari](https://www.linkedin.com/in/mohammad-zia-bakhteyari-8b8a861a5/)
-- 
+- GitHub: [@EngruugbeJimmy](https://github.com/EngruugbeJimmy)
+- Twitter: [@abbaJdev](https://twitter.com/abbaJdev)
+- LinkedIn: [abah-james-ugbede](https://www.linkedin.com/in/abah-james-ugbede-356982159/)
+
 ### 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 Feel free to check the issues page.
