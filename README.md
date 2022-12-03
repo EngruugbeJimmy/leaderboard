@@ -56,17 +56,7 @@ The leaderboard website displays scores submitted by different players. It also 
 
 ### Key Features <a name="key-features"></a>
 
-- [x] Sort method added.
-- [x] Design added.
-
-
-
-
-
-
-4a91e23
-@Zia123456
-design added
+- [x] Use ES6 modules, with import and export.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
